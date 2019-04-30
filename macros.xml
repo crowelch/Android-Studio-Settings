@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="save&amp;format">
+      <shortuct text="control alt L" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
